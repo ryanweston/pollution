@@ -1,0 +1,19 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  background-color: #FFFFFF;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding:100px 0px 100px 0px;
+}
+
+h1 {
+  margin-right:30px;
+  color: #000000;
+  font-size: 80%;
+  font-family: sans-serif;
+}
